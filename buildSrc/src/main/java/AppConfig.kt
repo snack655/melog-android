@@ -2,6 +2,7 @@ import org.gradle.api.JavaVersion
 
 object AppConfig {
     const val appNamespace = "com.mooooong.melog"
+    const val diNamespace = "com.mooooong.di"
     const val compileSdk = 33
     const val applicationId = "com.mooooong.melog"
     const val minSdk = 26

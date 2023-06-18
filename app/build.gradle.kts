@@ -1,6 +1,7 @@
 plugins {
     id(Plugins.application)
     id(Plugins.kotlinAndroid)
+    id(Plugins.kapt)
 }
 
 @Suppress("UnstableApiUsage")
