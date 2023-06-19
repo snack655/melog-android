@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = AppConfig.dataNamespace
+    namespace = AppConfig.modelNamespace
     compileSdk = AppConfig.compileSdk
 
     defaultConfig {
