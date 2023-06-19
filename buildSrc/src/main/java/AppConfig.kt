@@ -9,6 +9,7 @@ object AppConfig {
     const val dataNamespace = "com.mooooong.data"
     const val domainNamespace = "com.mooooong.domain"
     const val modelNamespace = "com.mooooong.model"
+    const val presentationNamespace = "com.mooooong.presentation"
     const val compileSdk = 33
     const val applicationId = "com.mooooong.melog"
     const val minSdk = 26
