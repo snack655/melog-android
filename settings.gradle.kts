@@ -15,3 +15,5 @@ dependencyResolutionManagement {
 rootProject.name = "melog"
 include(":app")
 include(":di")
+include(":meldown")
+include(":database")

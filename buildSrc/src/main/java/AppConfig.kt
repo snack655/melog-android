@@ -3,6 +3,12 @@ import org.gradle.api.JavaVersion
 object AppConfig {
     const val appNamespace = "com.mooooong.melog"
     const val diNamespace = "com.mooooong.di"
+    const val meldownNamespace = "com.mooooong.meldown"
+    const val databaseNamespace = "com.mooooong.database"
+    const val networkNamespace = "com.mooooong.network"
+    const val dataNamespace = "com.mooooong.data"
+    const val domainNamespace = "com.mooooong.domain"
+    const val modelNamespace = "com.mooooong.model"
     const val compileSdk = 33
     const val applicationId = "com.mooooong.melog"
     const val minSdk = 26
